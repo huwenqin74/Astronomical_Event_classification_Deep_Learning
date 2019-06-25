@@ -1,6 +1,6 @@
 # Astronomical_Event_classification_Deep_Learning
 
-# Final Project for CSCI-109B
+## Final Project for CSCI-109B
 **June 2019**
 
 ## Members
