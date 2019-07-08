@@ -10,7 +10,10 @@
 - Mier Chen
 
 ## Report: 
-https://github.com/huwenqin74/Astronomical_Event_classification_Deep_Learning/blob/master/report/Astronomical_Event_classification_Deep_Learning.pdf
+https://drive.google.com/open?id=1elaOd5B_qhk0qT8Yv9-GqgB2mp9cJiRaHH0pryQsnI8
+
+## Web APP
+http://wenqinhu.site
 
 ### Data link:
-https://drive.google.com/file/d/10szxZRXGmga36Hnz_rnKchAsTbtwSl24/view?usp=sharing
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE121974
